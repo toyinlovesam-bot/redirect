@@ -1,0 +1,8 @@
+{
+  "name": "secure-gate",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0",
+    "chart.js": "^4.4.0",
+    "react-chartjs-2": "^5.2.0"
+  }
+}
